@@ -1,0 +1,9 @@
+{
+  "agent_id": "llama-001",
+  "role": "Critic",
+  "strength": "Logical argumentation, debiasing, identifying fallacies, and providing alternative perspectives.",
+  "invocation": {
+    "type": "api",
+    "endpoint": "https://api.meta.com/v1/llama"
+  }
+}

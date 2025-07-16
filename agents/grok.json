@@ -1,0 +1,9 @@
+{
+  agent_id grok-001,
+  role Coder,
+  strength Python implementation, code generation, and logical analysis.,
+  invocation {
+    type api,
+    endpoint httpsapi.x.aiv1grok
+  }
+}

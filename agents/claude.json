@@ -1,0 +1,9 @@
+{
+  "agent_id": "claude-001",
+  "role": "Researcher",
+  "strength": "Literature review, summarization, ethical reasoning, and long-context synthesis.",
+  "invocation": {
+    "type": "api",
+    "endpoint": "https://api.anthropic.com/v1/claude"
+  }
+}
